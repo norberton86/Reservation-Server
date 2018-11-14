@@ -1,0 +1,18 @@
+{
+  "reservations": [
+    {
+      "name": "Norberto Lopez",
+      "hotelName": "Havana Hilton",
+      "arrivalDate": "2018-04-01",
+      "departureDate": "2018-04-10",
+      "id": 1
+    },
+    {
+      "name": "Tito Nieves",
+      "hotelName": "Punta Cana Resorts",
+      "arrivalDate": "2018-11-13",
+      "departureDate": "2018-11-18",
+      "id": 2
+    }
+  ]
+}
